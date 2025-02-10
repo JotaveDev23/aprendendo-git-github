@@ -1,0 +1,6 @@
+ls -> lista arquivos
+cd -> muda o diretório
+pwd -> mostra onde estou
+ls -a -> apresenta arquivos ocultos
+mkdir -> cria uma pasta
+cat -> abrir o arquivo
