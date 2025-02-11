@@ -4,3 +4,5 @@ pwd -> mostra onde estou
 ls -a -> apresenta arquivos ocultos
 mkdir -> cria uma pasta
 cat -> abrir o arquivo
+rm -> remove arquivo ou diretório
+rm -rf -> remove de forma recursiva e forçada todos diretórios
